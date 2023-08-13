@@ -5,6 +5,7 @@ A demo application that uses Protein Languages models to visualize secondary and
 ## Run the application locally:
 
 - Install dependencies using `pip install requirements.txt`
+- Download fine-tuned models (ask the authors of this repository) and update paths
 - Run the application inside the downloaded repository `streamlit run app.py`
 
 ## Run the application through docker:
